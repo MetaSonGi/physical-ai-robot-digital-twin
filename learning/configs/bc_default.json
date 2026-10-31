@@ -1,0 +1,16 @@
+{
+  "data_dir": "datasets/synthetic_pick_place",
+  "out_dir": "runs/bc_default",
+  "history": 4,
+  "horizon": 1,
+  "action_mode": "delta",
+  "hidden": 256,
+  "layers": 3,
+  "dropout": 0.1,
+  "batch_size": 256,
+  "epochs": 60,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "val_ratio": 0.2,
+  "seed": 0
+}
