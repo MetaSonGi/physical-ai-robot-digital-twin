@@ -1,6 +1,6 @@
 # Physical AI Robot × Unity Digital Twin
 
-[![CI](https://github.com/OWNER/physical-ai-robot-digital-twin/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
+[![CI](https://github.com/MetaSonGi/physical-ai-robot-digital-twin/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 ![ROS 2 Jazzy](https://img.shields.io/badge/ROS%202-Jazzy-22314E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C)
 ![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-000000)
