@@ -1,0 +1,9 @@
+# Shared parameters. Adjust joint/topic names to the OMX driver version you installed.
+/**:
+  ros__parameters:
+    rate_hz: 20.0
+    gripper_joint: gripper_left_joint
+    follower_gripper_joint: gripper_left_joint
+    leader_gripper_joint: gripper_joint
+    arm_command_topic: /arm_controller/joint_trajectory
+    gripper_command_topic: /gripper/command

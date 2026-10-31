@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+runs/
+datasets/*/
+!datasets/README.md
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+# Unity
+unity/**/Library/
+unity/**/Temp/
+unity/**/Obj/
+unity/**/Build/
+unity/**/Logs/
+unity/**/UserSettings/
+*.csproj
+*.sln
+.vscode/
+.idea/
+.DS_Store
